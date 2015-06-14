@@ -7,11 +7,17 @@ body {
 h1 {
     color: #000000;
     text-align: center;
-    font-family: Arial, monospace;
+    font-family: Georgia, serif;
     
     
     
 }
+
+h6 {
+    text-align: center;
+    font-family: Georgia, serif;
+}
+    
 
 ul {
     width: 570px;
@@ -20,7 +26,7 @@ ul {
     border-top: 2px solid #000;
     border-bottom: 2px solid #000;
     text-align: center;
-    font-family: Calibri;
+    font-family: Georgia, serif;
     
     
    
@@ -38,7 +44,6 @@ iframe {
 
 a {
     color: #000000;
-    text-transform: uppercase;
     text-decoration: none;
     padding: 6px 18px 5px 18px;}
 
@@ -46,4 +51,3 @@ a:hover {
     color: #cc3333;
     
 }
-
