@@ -2,6 +2,10 @@ body {
   background-color: #E5D9BF ;
   overflow: hidden;
     padding: 20px;
+<<<<<<< Updated upstream
+=======
+    overflow:auto;
+>>>>>>> Stashed changes
 }
 
 h1 {
@@ -41,7 +45,16 @@ iframe {
     
     padding: 20px;
 }
+<<<<<<< Updated upstream
 
+=======
+p {
+    text-align: center;
+    font-family: Georgia, serif;
+    
+    
+}
+>>>>>>> Stashed changes
 a {
     color: #000000;
     text-decoration: none;
@@ -51,3 +64,12 @@ a:hover {
     color: #cc3333;
     
 }
+<<<<<<< Updated upstream
+=======
+
+footer { 
+    display: block;
+    text-align: center;
+}
+
+>>>>>>> Stashed changes
