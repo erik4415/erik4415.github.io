@@ -21,6 +21,9 @@ h5 {
     font-family: Georgia, serif;
 }
     
+div {
+    align: center;
+}
 
 ul {
     width: 570px;
